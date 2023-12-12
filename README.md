@@ -5,6 +5,9 @@
 
 ## Sovereign State Department (Issuer) -- Government
 
+>**Credential definition ID**
+> The identity card credential definition ID is: `did:cheqd:testnet:5c18211b-db86-476d-b81d-250677d2deb5/resources/04479cdf-73fa-4c07-8ec3-589bb3290bdd`
+
 ### Background
 
 Guardians of identity, the Sovereign State Department, has been the architect of public documentation for generations. Within its historical walls, every citizen's official journey commences with the issuance of a government ID.
